@@ -4,4 +4,5 @@ Panini
     Panino Vegetariano
 Primi
     Olive Ascolane
+    Arancini
 Paninoteca Padovana
